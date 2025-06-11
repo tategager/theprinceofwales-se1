@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>The Prince of Wales Pub</title>
   <style>
     body {
@@ -88,16 +88,7 @@
 
   <section id="contact">
     <h2>Contact & Location</h2>
-    <p>📍 123 Borough High Street, London SE1</p>
-    <p>📞 020 7946 0123</p>
-    <p>📧 info@theprinceofwales-se1.com</p>
-    <iframe 
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19894.09997023148!2d-0.09646!3d51.50212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTHCsDMwJzA3LjYiTiAwwrAwNyc0OS42Ilc!5e0!3m2!1sen!2suk!4v1633902166123!5m2!1sen!2suk" 
-      width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-  </section>
-
-  <footer>
-    <p>&copy; 2025 The Prince of Wales Pub. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+    <p>📍 51 St George's Road, London SE1 6ER</p>
+    <p>📞 020 7582 9696</p>
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19892.79205841194!2d-0.10205274666122535!3d51.49644687757685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604c74ee1b341%3A0x3737df50c8f82286!2s51%20St%20George's%20Rd%2C%20London%20SE
